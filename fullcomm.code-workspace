@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "fullcomm",
+			"path": "."
+		},
+		{
+			"name": "landingpage",
+			"path": "../../../Music/frontend-doctorfy-landipage/pages/landingpage"
+		}
+	],
+	"settings": {}
+}
